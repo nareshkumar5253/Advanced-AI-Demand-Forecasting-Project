@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+backend/frontend/node_modules/
+
+# python virtual environment
+venv/
+backend/venv/
+
+# build outputs
+dist/
+build/
+
+# env files
+.env
